@@ -2,7 +2,7 @@
 
 ### Introduction
 The objectives of UDTP are:
-- promote sharing of files (computer programs and/or data)
+- promote sharing of files
 - shield a user from variations in file storage systems among hosts
 - transfer data reliably and efficiently
 - supports rendezvous connection setup and UDP-based hole punching techniques
