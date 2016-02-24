@@ -1,2 +1,2 @@
 # udtp
- µTP-based Data Transfer Protocol Node.js implmentation
+ µTP-based Data Transfer Protocol Node.js implementation.

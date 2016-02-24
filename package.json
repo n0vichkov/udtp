@@ -1,0 +1,28 @@
+{
+  "name": "udtp",
+  "version": "0.0.0",
+  "description": "µTP-based Data Transfer Protocol Node.js implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacopoDaeli/udtp.git"
+  },
+  "keywords": [
+    "utp",
+    "udp",
+    "p2p"
+  ],
+  "author": "Jacopo Daeli <jacopo.daeli@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JacopoDaeli/udtp/issues"
+  },
+  "homepage": "https://github.com/JacopoDaeli/udtp#readme",
+  "dependencies": {
+    "length-prefixed-stream": "^1.4.0",
+    "utp-native": "^1.2.2"
+  }
+}
