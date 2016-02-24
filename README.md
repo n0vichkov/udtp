@@ -22,4 +22,4 @@ A µTP-based Data Transfer Protocol (UDTP) is presented with [this document](pro
 ### Roadmap
 
 #### 0.0.0
-- Define a very basic first version of the protocol
+- Define a simplified version of the protocol
