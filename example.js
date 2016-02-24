@@ -52,7 +52,7 @@ readableStream.on('data', chunk => {
 })
 
 readableStream.on('end', () => {
-  console.log('SENDING END_OF_STREAM')
+  // console.log('SENDING END_OF_STREAM')
   encoder.write('END_OF_STREAM')
 })
 
